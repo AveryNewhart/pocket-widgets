@@ -1,4 +1,4 @@
-# my-stopwatch
+# pocket-widgets
 
 - I wanted to have my two favorite widget apps, as one! My countdown timer and my stopwatch!
 
